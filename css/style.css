@@ -1,0 +1,17 @@
+body {
+    background-image: url(https://media.tenor.com/Fj_XzHFFcNYAAAAd/aquario-aquarium.gif);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.container {
+    display: flex;
+    margin: 10% 10%;
+    background-color: rgba(0, 0, 0, 0.7);
+    color: white;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    border-radius: 35px;
+
+}
