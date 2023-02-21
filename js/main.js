@@ -27,4 +27,4 @@ console.log = (colorePreferito);
 
 const concatenazioneDati = nomeUtente + cognomeUtente + colorePreferito + "23";
 
-document.getElementById("concatenazione").innerHTML = `${concatenazioneDati}`;
+document.getElementById("concatenazione").innerHTML = `La tua nuova Password è: ${concatenazioneDati}`;
